@@ -1,0 +1,5 @@
+pipenv
+selenium
+pytest-html
+#load testing
+locustio
